@@ -10,7 +10,7 @@ display_url: https://gatsby-netlify-cms-example.netlify.com/
 collections:
   - name: "meetups"
     label: "Meetups"
-    description: "Meetup dates, location, and presenter information."
+    description: "Meetup dates, location, and presenter information. "
     folder: "src/pages/meetups"
     create: true
     fields:
